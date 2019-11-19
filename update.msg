@@ -1,13 +1,1 @@
-{"baoming":"1.0","banben":"1.0","inner":"直播课堂助手Pro正式发布啦！(目前是测试)","githublink":"无","lanzoulink":"无","must_update_line":"1.0"}
-<版本名>1.0</版本名>
-
-<版本>1.0</版本>
-
-<内容>测试</内容>
-
-<GitHub链接>无</GitHub链接>
-
-<蓝奏云链接>无</蓝奏云链接>
-
-<强制更新底线>1.0</强制更新底线>
-
+{"version_name":"1.0","version_code":"1.0","update_message":"直播课堂助手Pro正式发布啦！(目前是测试)","github_link":"无","lanzou_link":"无","must_update_line":"1.0"}
